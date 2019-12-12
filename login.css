@@ -1,0 +1,107 @@
+.user{
+  width: 30%;
+  padding: 10px;
+  font-size: 15pt;
+  margin-bottom: 30px;
+  background-color: skyblue;
+  font-family: Times New Roman;
+  color: white;
+  position: absolute;
+  top: 250px;
+  left: 430px;
+}
+.password{
+  width: 30%;
+  padding: 10px;
+  font-size: 15pt;
+  margin-bottom: 30px;
+  background-color: skyblue;
+  font-family: Times New Roman;
+  color: white;
+  position: absolute;
+  top: 320px;
+  left: 430px;
+}
+.login p{
+	float: left;
+	font-family: serif;
+  	font-size: 35px;
+  	font-weight: bold;
+  	color: black;
+  	position: absolute;
+  	top: 160px;
+  	left: 430px;
+}
+.login button{
+  text-decoration: none;
+  background-color: blue;
+  font-weight: bold;
+  width: 7%;
+  height: 6%;
+  font-size: 19px;
+  padding: 5px 10px;
+  text-align: center;
+  color: white;
+  font-family: serif;
+  font-weight: bold;
+  border-radius: 7px;
+  position: absolute;
+  top:395px;
+  left: 780px;
+}
+.kembali a{
+  text-decoration: none;
+  background-color: red;
+  font-weight: bold;
+  width: 5%;
+  height: 4%;
+  font-size: 19px;
+  padding: 5px 10px;
+  text-align: center;
+  color: white;
+  font-family: serif;
+  font-weight: bold;
+  border-radius: 7px;
+  position: absolute;
+  top:120px;
+  left: 20px;
+}
+.kembali p{
+	float: left;
+	font-family: serif;
+  	font-size: 20px;
+  	color: white;
+  	font-weight: bold;
+  	position: absolute;
+  	top: 17%;
+  	left: 1030px;
+  	line-height: 15px;
+  	text-align: center;
+}
+.signup a{
+  text-decoration: none;
+  background-color: purple;
+  font-weight: bold;
+  width: 5%;
+  height: 4%;
+  font-size: 19px;
+  padding: 5px 10px;
+  text-align: center;
+  color: white;
+  font-family: serif;
+  font-weight: bold;
+  border-radius: 7px;
+  position: absolute;
+  top:120px;
+  left: 1220px;
+}
+.tombol {
+  background: green;
+  color: white;
+ font-weight: bold;
+  border: 0;
+  padding: 10px 200px;
+  position: absolute;
+  top: 400px;
+  margin-left: 420px;
+}

@@ -1,0 +1,72 @@
+.box1{
+	display: table-cell;
+	background-color: #2ED1A2;
+	width: 1000px;
+	height: 600px;
+	position: absolute;
+	margin-top: 2%;
+	margin-left: 12%;
+}
+.box1 h1{
+	text-decoration:none;
+	font-family: Times New Roman;
+	line-height: 5px;
+	font-weight: bold;
+	color: white;
+	font-size: 20px;
+	position: relative;
+	bottom:-20px;
+	margin-left: 10px;
+}
+.pengirim{
+  width: 30%;
+  padding: 10px;
+  font-size: 15pt;
+  margin-bottom: 30px;
+  border: 2;
+  font-family: Times New Roman;
+  position: absolute;
+  top: 16px;
+  margin-left: 110px;
+}
+.box1 h2{
+	text-decoration:none;
+	font-family: Times New Roman;
+	line-height: 5px;
+	font-weight: bold;
+	color: white;
+	font-size: 20px;
+	position: absolute;
+	top :80px;
+	margin-left: 10px;
+}
+.box1 textarea{
+  width: 800px;
+  height: 300px;
+  padding: 10px;
+  font-size: 15pt;
+  margin-bottom: 30px;
+  border: 2;
+  font-family: Times New Roman;
+  position: absolute;
+  top: 90px;
+  margin-left: 110px;
+  text-align: top;
+}
+.tombol{
+ 	text-decoration: none;
+  	background-color: blue;
+  	font-weight: bold;
+  	width: 5%;
+	height: 4%;
+	font-size: 19px;
+	padding: 5px 10px;
+	text-align: center;
+	color: white;
+	font-family: serif;
+	font-weight: bold;
+	border-radius: 7px;
+	position: absolute;
+ 	top: 450px;
+	left: 850px;
+  }

@@ -1,0 +1,428 @@
+.bg {
+	width: 100%;
+	height: 100px;
+	background-color: skyblue;
+}
+.sistem{
+	float: left;
+  	margin: 20px 5px;
+  	font-weight: bold;
+  	position: absolute;
+  	margin-top: 1%;
+  	margin-left: 100px;
+}
+.bg1 {
+	width: 50%;
+	height: 90px;
+	float: right;
+	/*background-color: red;*/
+	margin-right: 100px;
+}
+.bg1 a {
+	text-decoration:none;
+	line-height: 150px;
+	margin-right: 35px;
+	font-weight: bold;
+	color: white;
+	font-size: 20px;
+	float: right;
+}
+.dpn {
+	float: left;
+	font-family: serif;
+  	font-size: 30px;
+  	font-weight: bold;
+  	position: absolute;
+  	margin-top: 16%;
+  	margin-left: 700px;
+  	line-height: 15px;
+  	text-align: center;
+}
+.dasar img{
+	width: 100%;
+	height: 500px;
+	margin-bottom: 20px;
+	margin-top: -13px;
+}
+.icon1{
+	width: 1px;
+	height: 5px;
+}
+.bg img{
+	width: 6%;
+	margin-top: 10px;
+	margin-left: 10px;
+	float: left;
+}
+.menkes img{
+	width: 12%;
+	float: right;
+	margin-right: 20px;
+	margin-top: -10px;
+}
+.login{
+  text-decoration: none;
+  background-color: #46de4b;
+  font-weight: bold;
+  width: 5%;
+  height: 4%;
+  font-size: 19px;
+  padding: 5px 10px;
+  text-align: center;
+  color: white;
+  font-family: serif;
+  font-weight: bold;
+  border-radius: 7px;
+  position: absolute;
+  margin-top:105px;
+  margin-left: 75%;
+}
+.signup{
+  text-decoration: none;
+  background-color: blue;
+  width: 5%;
+  height: 4%;
+  font-size: 17px;
+  font-weight: bold;
+  padding: 5px 10px;
+  text-align: center;
+  color: white;
+  font-family: serif;
+  font-weight: bold;
+  border-radius: 7px;
+  position: absolute;
+  margin-top:105px;
+  margin-left: 83%;
+}
+.kotak{
+	display: table;
+	width: 840px;
+	height: 350px;
+	background-color: blue;
+	border-radius: 10px;
+	position: absolute;
+	margin-top: 5%;
+	margin-left: 15%;
+}
+.kotak p{
+	text-decoration:none;
+	font-family: Times New Roman;
+	line-height: 5px;
+	font-weight: bold;
+	color: black;
+	font-size: 30px;
+	float: center;
+	text-align: center;
+	position: relative;
+	bottom:70px;
+}
+.box1{
+	display: table-cell;
+	background-color: green;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	margin-top: 2%;
+	margin-left: 7%;
+	border-radius: 10px;
+}
+.box1 p{
+	text-decoration:none;
+	font-family: calibri;
+	line-height: 5px;
+	font-weight: bold;
+	color: white;
+	font-size: 20px;
+	float: center;
+	text-align: center;
+	position: relative;
+	bottom:-120px;
+}
+.box1 img{
+	width: 150px;
+	height: 100px;
+	margin-bottom: 10px;
+	margin-top: -13px;
+	position: absolute;
+	bottom: 70px;
+	left: 25px;
+}
+.box2{
+	display: table-cell;
+	background-color: brown;
+	width: 250px;
+	height: 250px;
+	position: absolute;
+	margin-top: 9%;
+	margin-left: 38%;
+	border-radius: 10px;
+}
+.box2 p{
+	text-decoration:none;
+	font-family: calibri;
+	line-height: 5px;
+	font-weight: bold;
+	color: white;
+	font-size: 25px;
+	float: center;
+	text-align: center;
+	position: relative;
+	bottom:-160px;
+}
+.box2 img{
+	width: 200px;
+	height: 150px;
+	margin-bottom: 10px;
+	margin-top: -13px;
+	position: absolute;
+	bottom: 70px;
+	left: 25px;
+}
+.box3{
+	display: table-cell;
+	background-color: green;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	margin-top: 11%;
+	margin-left: 60%;
+	border-radius: 10px;
+}
+.box3 p{
+	text-decoration:none;
+	font-family: calibri;
+	line-height: 5px;
+	font-weight: bold;
+	color: white;
+	font-size: 20px;
+	float: center;
+	text-align: center;
+	position: relative;
+	bottom:-120px;
+}
+.box3 img{
+	width: 150px;
+	height: 100px;
+	margin-bottom: 10px;
+	margin-top: -13px;
+	position: absolute;
+	bottom: 70px;
+	left: 25px;
+}
+.berita1{
+	width: 900px;
+	height: 230px;
+	background-color: skyblue;
+	position: absolute;
+	margin-top: 40%;
+	margin-left: 15%;
+}
+.berita1 p{
+	text-decoration:none;
+	font-family: Times New Roman;
+	line-height: 5px;
+	font-weight: bold;
+	color: black;
+	font-size: 30px;
+	float: center;
+	text-align: center;
+	position: relative;
+	bottom:80px;
+}
+.berita1 img{
+	width: 250px;
+	height: 150px;
+	margin-bottom: -7%;
+	position: absolute;
+	bottom: 80px;
+	left: 25px;
+}
+.berita1 h1{
+	text-decoration:none;
+	font-family: Times New Roman;
+	line-height: 5px;
+	font-weight: bold;
+	color: black;
+	font-size: 25px;
+	text-align: left;
+	margin-left: 30px;
+	position: relative;
+	bottom:30px;
+}
+.berita1 a{
+	text-decoration:none;
+	font-family: times new roman;
+	line-height: 15px;
+	font-weight: bold;
+	color: white;
+	font-size:30px;
+	float: center;
+	text-align: left;
+	position: relative;
+	bottom:30px;
+	left: 300px;
+}
+.berita2{
+	width: 900px;
+	height: 230px;
+	background-color: skyblue;
+	position: absolute;
+	margin-top: 60%;
+	margin-left: 15%;
+}
+.berita2 img{
+	width: 250px;
+	height: 150px;
+	margin-bottom: -7%;
+	position: absolute;
+	bottom: 80px;
+	left: 25px;
+}
+.berita2 h1{
+	text-decoration:none;
+	font-family: Times New Roman;
+	line-height: 5px;
+	font-weight: bold;
+	color: black;
+	font-size: 25px;
+	text-align: left;
+	margin-left: 30px;
+	position: relative;
+	bottom:-15px;
+}
+.berita2 h2{
+	text-decoration:none;
+	font-family: times new roman;
+	line-height: 15px;
+	font-weight: bold;
+	color: white;
+	font-size:30px;
+	float: center;
+	text-align: left;
+	position: relative;
+	bottom:-15px;
+	left: 300px;
+}
+.berita3{
+	width: 900px;
+	height: 230px;
+	background-color: skyblue;
+	position: absolute;
+	margin-top: 80%;
+	margin-left: 15%;
+}
+.berita3 img{
+	width: 250px;
+	height: 150px;
+	margin-bottom: -7%;
+	position: absolute;
+	bottom: 80px;
+	left: 25px;
+}
+.berita3 h1{
+	text-decoration:none;
+	font-family: Times New Roman;
+	line-height: 5px;
+	font-weight: bold;
+	color: black;
+	font-size: 25px;
+	text-align: left;
+	margin-left: 30px;
+	position: relative;
+	bottom:-15px;
+}
+.berita3 h2{
+	text-decoration:none;
+	font-family: times new roman;
+	line-height: 15px;
+	font-weight: bold;
+	color: white;
+	font-size:30px;
+	float: center;
+	text-align: left;
+	position: relative;
+	bottom:-15px;
+	left: 300px;
+}
+.kotakbwh{
+	width: 100%;
+	height: 500px;
+	margin-top: 100%;
+	background-color: blue;
+}
+.kotakbwh img{
+	width: 300px;
+	height: 300px;
+	margin-top: 7%;
+	margin-left: 30px;
+}
+.kotakbwh h1{
+	text-decoration:none;
+	font-family: times new roman;
+	line-height: 40px;
+	font-weight: bold;
+	color: white;
+	font-size:30px;
+	float: center;
+	text-align: left;
+	position: relative;
+	bottom:70%;
+	left: 500px;
+}	
+.kotakbwh h2{
+	text-decoration:none;
+	font-family: times new roman;
+	line-height: 60px;
+	font-weight: bold;
+	color: white;
+	font-size:30px;
+	float: center;
+	text-align: left;
+	position: relative;
+	bottom:70%;
+	left: 500px;
+}	
+.kotakbwh2{
+	width: 100%;
+	height: 50px;
+	margin-top: -28%;
+	background-color: darkblue;
+}
+.kotakbwh2 h1{
+	text-decoration:none;
+	font-family: Times New Roman;
+	line-height: 5px;
+	font-weight: bold;
+	color: white;
+	font-size: 30px;
+	position: absolute;
+	top:398%;
+	left: 35%;
+}
+.icon img{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	top: 1920px;
+	left: 410px;
+}
+.phone img{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	top: 2190px;
+	left: 410px;
+}
+.pesan img{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	top: 2270px;
+	left: 410px;
+}
+
+
+
+
+
+

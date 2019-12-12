@@ -1,0 +1,347 @@
+.cari{
+  width: 600px;
+  height: 40px;
+  position: relative;
+  top: 40px;
+  left: 300px;
+  background-color: white;
+  border-radius: 2px;
+}
+.button{
+  width: 60px;
+  height: 40px;
+  position: relative;
+  left:300px;
+  top: 40px;
+  background-color: green;
+  border-radius: 5px;
+}
+.iconcari{
+  width: 30px;
+  position: relative;
+  top: 50px;
+  left: 190px;
+}
+.box1{
+  display: table-cell;
+  background-color: #2ED1A2;
+  width: 200px;
+  height: 250px;
+  position: absolute;
+  margin-top: 6%;
+  margin-left: 7%;
+  border-radius: 10px;
+}
+.box1 img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 25%;
+  margin-left: 20px;
+  position: absolute;
+  bottom: 80px;
+  left: -10px;
+}
+.box1 h1{
+  text-decoration:none;
+  font-family: TIMES NEW Roman;
+  line-height: 13px;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+  float: center;
+  text-align: center;
+  position: relative;
+  bottom:-140px;
+}
+.box1 a{
+  text-decoration:none;
+  font-family: TIMES NEW Roman;
+  line-height: 13px;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+  float: center;
+  text-align: center;
+  position: relative;
+  bottom:-140px;
+  margin-left: 40px;
+}
+.box2{
+  display: table-cell;
+  background-color: #2ED1A2;
+  width: 200px;
+  height: 250px;
+  position: absolute;
+  margin-top: 6%;
+  margin-left: 25%;
+  border-radius: 10px;
+}
+.box2 img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 25%;
+  margin-left: 20px;
+  position: absolute;
+  bottom: 70px;
+  left: 25px;
+}
+.box2 h1{
+  text-decoration:none;
+  font-family: TIMES NEW Roman;
+  line-height: 13px;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+  float: center;
+  text-align: center;
+  position: relative;
+  bottom:-140px;
+}
+.box3{
+  display: table-cell;
+  background-color: #2ED1A2;
+  width: 200px;
+  height: 250px;
+  position: absolute;
+  margin-top: -65px;
+  margin-left: 120%;
+  border-radius: 10px;
+}
+.box3 img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 25%;
+  margin-left: 20px;
+  position: absolute;
+  bottom: 70px;
+  left: 25px;
+}
+.box3 h1{
+  text-decoration:none;
+  font-family: TIMES NEW Roman;
+  line-height: 13px;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+  float: center;
+  text-align: center;
+  position: relative;
+  bottom:-140px;
+}
+.box4{
+  display: table-cell;
+  background-color: #2ED1A2;
+  width: 200px;
+  height: 250px;
+  position: absolute;
+  margin-top: -65px;
+  margin-left: 120%;
+  border-radius: 10px;
+}
+.box4 img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 25%;
+  margin-left: 20px;
+  position: absolute;
+  bottom: 70px;
+  left: 25px;
+}
+.box4 h1{
+  text-decoration:none;
+  font-family: TIMES NEW Roman;
+  line-height: 13px;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+  float: center;
+  text-align: center;
+  position: relative;
+  bottom:-140px;
+}
+.box5{
+  display: table-cell;
+  background-color: #2ED1A2;
+  width: 200px;
+  height: 250px;
+  position: absolute;
+  margin-top: -65px;
+  margin-left: 120%;
+  border-radius: 10px;
+}
+.box5 img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 25%;
+  margin-left: 20px;
+  position: absolute;
+  bottom: 70px;
+  left: 25px;
+}
+.box5 h1{
+  text-decoration:none;
+  font-family: TIMES NEW Roman;
+  line-height: 13px;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+  float: center;
+  text-align: center;
+  position: relative;
+  bottom:-140px;
+}
+.box6{
+  display: table-cell;
+  background-color: #2ED1A2;
+  width: 200px;
+  height: 250px;
+  position: absolute;
+  margin-top: 100%;
+  margin-right: 7%;
+  border-radius: 10px;
+}
+.box6 img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 25%;
+  margin-left: 20px;
+  position: absolute;
+  bottom: 70px;
+  left: 25px;
+}
+.box6 h1{
+  text-decoration:none;
+  font-family: TIMES NEW Roman;
+  line-height: 13px;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+  float: center;
+  text-align: center;
+  position: relative;
+  bottom:-140px;
+}
+.box7{
+  display: table-cell;
+  background-color: #2ED1A2;
+  width: 200px;
+  height: 250px;
+  position: absolute;
+  margin-top: -65px;
+  margin-left: -240px;
+  border-radius: 10px;
+}
+.box7 img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 25%;
+  margin-left: 20px;
+  position: absolute;
+  bottom: 70px;
+  left: 25px;
+}
+.box7 h1{
+  text-decoration:none;
+  font-family: TIMES NEW Roman;
+  line-height: 13px;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+  float: center;
+  text-align: center;
+  position: relative;
+  bottom:-140px;
+}
+.box8{
+  display: table-cell;
+  background-color: #2ED1A2;
+  width: 200px;
+  height: 250px;
+  position: absolute;
+  margin-top: -65px;
+  margin-left: -240px;
+  border-radius: 10px;
+}
+.box8 img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 25%;
+  margin-left: 20px;
+  position: absolute;
+  bottom: 70px;
+  left: 25px;
+}
+.box8 h1{
+  text-decoration:none;
+  font-family: TIMES NEW Roman;
+  line-height: 13px;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+  float: center;
+  text-align: center;
+  position: relative;
+  bottom:-140px;
+}
+.box9{
+  display: table-cell;
+  background-color: #2ED1A2;
+  width: 200px;
+  height: 250px;
+  position: absolute;
+  margin-top: -65px;
+  margin-left: -240px;
+  border-radius: 10px;
+}
+.box9 img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 25%;
+  margin-left: 20px;
+  position: absolute;
+  bottom: 70px;
+  left: 25px;
+}
+.box9 h1{
+  text-decoration:none;
+  font-family: TIMES NEW Roman;
+  line-height: 13px;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+  float: center;
+  text-align: center;
+  position: relative;
+  bottom:-140px;
+}
+.box10{
+  display: table-cell;
+  background-color: #2ED1A2;
+  width: 200px;
+  height: 250px;
+  position: absolute;
+  margin-top: -65px;
+  margin-left: -240px;
+  border-radius: 10px;
+}
+.box10 img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 25%;
+  margin-left: 20px;
+  position: absolute;
+  bottom: 70px;
+  left: 25px;
+}
+.box10 h1{
+  text-decoration:none;
+  font-family: TIMES NEW Roman;
+  line-height: 13px;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+  float: center;
+  text-align: center;
+  position: relative;
+  bottom:-140px;
+}

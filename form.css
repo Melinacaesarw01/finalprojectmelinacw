@@ -1,0 +1,127 @@
+body{
+  font-family: sans-serif;
+
+  background-image: url(background.jpg);
+      background-position:center;
+      background-size:cover;
+      border: rgba(0,-10,10,-10);
+      padding: 2cm 2cm;
+    }
+h1{
+  text-align: center;
+  /*ketebalan font*/
+  font-weight:300;
+}
+.boxatas{
+  width: 1500px;
+  height: 150px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: skyblue;
+}
+.icon{
+  width: 100px;
+  position: relative;
+  top: -50px;
+  left: 0;
+}
+.RI{
+  float: right;
+  width: 170px;
+  position: relative;
+  top: -70px;
+  left: 0;
+}
+.tulisanatas{
+  text-align: center;
+  font-family: Futura;
+  font-size: 25px;
+  text-transform: uppercase;
+  color: white;
+  position: relative;
+  top: -150px;
+  left: 80px;
+  font-weight: bold;
+}
+.tulisanatas2{
+  text-align: center;
+  font-family: Futura;
+  font-size: 23px;
+  text-transform: uppercase;
+  color: white;
+  position: relative;
+  top: -150px;
+  left: 0px;
+}
+.tulisan_login{
+  text-align: left;
+  text-transform: uppercase;
+  font-family: Circular;
+  margin: 0px;
+  color: black;
+  position: relative;
+  top: -60px;
+  left: 0px;
+  font-size: 35px;
+  font-weight: bold;
+}
+ 
+ 
+label{
+  font-size: 11pt;
+  display: block;
+  font-weight: bold;
+ }
+.form_login{
+  /*membuat lebar form penuh*/
+  width: 80%;
+  padding: 10px;
+  font-size: 11pt;
+  margin-bottom: 20px;
+  border: 0;
+}
+.form{
+  /*membuat lebar form penuh*/
+  width: 78%;
+  padding: 10px;
+  font-size: 11pt;
+  margin-bottom: 20px;
+  border: 0;
+}
+ 
+.tombol_login{
+  background-color: #46de4b;
+  text-decoration: none;
+  width: 5%;
+  height: 4%;
+  font-size: 19px;
+  padding: 5px 10px;
+  text-align: center;
+  color: white;
+  font-family: serif;
+  font-weight: bold;
+  border-radius: 7px;
+  position: absolute;
+  margin-top:1%;
+  margin-right: 83%;
+} 
+.tombol_kembali{
+  background-color: blue;
+  text-decoration: none;
+  width: 5%;
+  height: 4%;
+  font-size: 19px;
+  padding: 5px 10px;
+  text-align: center;
+  color: white;
+  font-family: serif;
+  font-weight: bold;
+  border-radius: 7px;
+  position: absolute;
+  margin-top:-1050px;
+  left: 20px;
+} 
+
+
+

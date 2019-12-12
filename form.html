@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="form.css">
+</head>
+<body>
+      <div class="boxatas"></div>
+      <div class="header">
+        <img class="icon"src="icon.png">
+        <img class="RI"src="RI.png">
+        <h1 class="tulisanatas">SISTEM PENDATAAN PETUGAS KESEHATAN</h1>
+        <h2 class="tulisanatas2">Wilayah Kabupaten Jember</h2>
+        <h1 class="tulisan_login">Sign Up</h1>
+      </div>
+
+         <div class="form">
+        <form >
+          <label>Nama Lengkap</label>
+          <input type="text" name="namalengkap" class="form" placeholder="Nama Lengkap">
+          <br>
+          <label>Tanggal Lahir</label>
+          <input type="date" name="lahir" class="form" placeholder="DD/MM/YYYY">
+        <br>
+        <label>Asal</label>
+    <select name="ddlProvinsi" id="ddlProvinsi" class="form_login" onchange="comboboxkota()">
+          <option value="0" selected>- Pilih Provinsi -</option>
+          <option value="1">Aceh</option>
+          <option value="2">Sumatera Utara</option>
+          <option value="3">Sumatera Barat</option>
+          <option value="4">Riau</option>
+          <option value="5">Jambi</option>
+          <option value="7">Bengkulu</option>
+          <option value="6">Sumatera Selatan</option>
+          <option value="8">Lampung</option>
+          <option value="10">Kepulauan Riau</option>
+          <option value="9">Kepulauan Bangka Belitung</option>
+          <option value="16">Banten</option>
+          <option value="12">Jawa Barat</option>
+          <option value="11">DKI Jakarta</option>
+          <option value="13">Jawa Tengah</option>
+          <option value="15">Jawa Timur</option>
+          <option value="14">Daerah Istimewa Yogyakarta</option>
+          <option value="17">Bali</option>
+          <option value="18">Nusa Tenggara Barat</option>
+          <option value="19">Nusa Tenggara Timur</option>
+          <option value="20">Kalimantan Barat</option>
+          <option value="22">Kalimantan Selatan</option>
+          <option value="21">Kalimantan Tengah</option>
+          <option value="23">Kalimantan Timur</option>
+          <option value="26">Sulawesi Selatan</option>
+          <option value="27">Sulawesi Tenggara</option>
+          <option value="24">Sulawesi Utara</option>
+          <option value="28">Gorontalo</option>
+          <option value="30">Maluku</option>
+          <option value="33">Papua Barat</option>
+          <option value="32">Papua</option>
+          <option value="31">Maluku Utara</option>
+          <option value="25">Sulawesi Tengah</option>
+  </select>
+  <br>
+  <select name="ddlKota" id="ddlKota" class="form_login">
+      <option selected="selected" value="0">- Pilih Kota -</option>
+    </select></td></tr>
+    <br>
+     <label>Jenis Kelamin</label>
+     <td><select class="form_login" name="jeniskelamin"></td>
+    <option value="Laki-laki">Laki-laki</option>
+    <option value="Perempuan">Perempuan</option>
+    </select></td></tr>
+    <br>
+     <label>Agama</label>
+    <td><select class="form_login" name="Agama"></td>
+    <option value="Islam">Islam</option>
+    <option value="Kristen">Kristen</option>
+    <option value="Katholik">Katholik</option>
+    <option value="Budha">Budha</option>
+    <option value="Hindu">Hindu</option>
+    <option value="Konghucu">Konghucu</option>
+    </select></td></tr>
+    <br>
+    <label>Status Kawin</label>
+    <td><select class="form_login" name="StatusKawin"></td>
+    <option value="Sudah_Kawin">Sudah Kawin</option>
+    <option value="Belum_Kawin">Belum Kawin</option>
+    </select></td></tr>
+    <br>
+     <label>Spesialis Dokter</label>
+    <td><select class="form_login" name="Spesialisdokter"></td>
+    <option value="Dokte_Umum">Dokter Umum</option>
+    <option value="Dokter_THT">Dokter THT</option>
+    <option value="Dokter_Kandungan">Dokter Kandungan</option>
+    <option value="Dokter_Anak">Dokter Anak</option>
+    <option value="Dokter_Jantung">Dokter Jantung</option>
+    </select></td></tr>
+    <br>
+     <label>Penempatan Desa</label>
+      <td>
+        <select class="form_login" name="PenempatanDesa"></td>
+          <option value="Ledokombo">Ledokombo</option>
+          <option value="Subo">Subo</option>
+          <option value="Glagahwero">Glagahwero</option>
+          <option value="Mumbulsari">Mumbulsari</option>
+          <option value="Puger">Puger</option>
+          <option value="Wonosobo">Wonosobo</option>
+          <option value="Gumukmas">Gumukmas</option>
+          <option value="Andongrejo">Andongrejo</option>
+        </select>
+      </td>
+    </tr>
+    <br>
+    <label>Email</label>
+      <input type="Email" name="Email" class="form" placeholder="Email">
+      <br>
+    <label>Password</label>
+      <input type="Password" name="password" class="form" placeholder="Password">
+      <br>
+    <label>Konfirmasi Password</label>
+      <input type="Password" name="password" class="form" placeholder="Konfirmasi Password">
+      <br>
+      <a class="tombol_login">Save</a>
+      <a href="index.html" class="tombol_kembali">Kembali</a>
+      </form>
+
+    </div>     
+    <script type="text/javascript" src="script.js"></script>
+</body>
+</html>
